@@ -1,4 +1,3 @@
-import os,sys
 import urllib
 import socket
 print "use http(s)://www.site.com"
